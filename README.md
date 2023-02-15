@@ -4,10 +4,14 @@ The Year of the Linux desktop is like the modern day [Zeno's paradoxes](https://
 
 ## Fractional scaling and multiple monitors
 
+
+
+## Browser-based hardware video decoding
+
+## Variable refresh rate
+
 ## Touchscreens
 
 ## Color management
-
-## Browser-based hardware video decoding
 
 ## Bluetooth audio
